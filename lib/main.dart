@@ -1,5 +1,13 @@
 import 'package:flutter/material.dart';
 
-void main(){
-  runApp(Widget)
+void main() {
+  runApp(
+    const MaterialApp(
+      home: Scaffold(
+        body: Center(
+          child: Text('Hello World!'),
+        ),
+      ),
+    ),
+  ); //root widget , using name argument,
 }
