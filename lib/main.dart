@@ -6,7 +6,9 @@ import 'package:roll_dice_app/styled_text.dart';
 void main() {
   runApp(
     const MaterialApp(
-      home: Scaffold(body: GradientContainer(), body: StyledText()),
+      home: Scaffold(
+        body: GradientContainer(),
+      ),
     ),
   ); //root widget , using name argument,
 }
