@@ -4,7 +4,16 @@ void main() {
   runApp(
     MaterialApp(
       home: Scaffold(
-        body: Container(
+        body: GradientContainer()
+      ),
+    ),
+  ); //root widget , using name argument,
+}
+
+class GradientContainer extends StatelessWidget {
+  @override
+  Widget build(context) {
+    return Container(
           decoration: const BoxDecoration(
             gradient: LinearGradient(
               colors: [
@@ -25,7 +34,5 @@ void main() {
             ),
           ),
         ),
-      ),
-    ),
-  ); //root widget , using name argument,
-}
+  }
+}  //for normal classes i wont need the statelesswidget
