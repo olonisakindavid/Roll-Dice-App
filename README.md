@@ -2,9 +2,9 @@
 
 ## Video Demonstration
 
-Click the video below to watch the demonstration:
+Click the image below to watch the demonstration:
 
-![Roll Dice App Video](https://github.com/olonisakindavid/Roll-Dice-App/assets/66315270/8f5c33c2-5a32-4bf8-a0fe-a3437f374ba2)
+<img src="https://github.com/olonisakindavid/Roll-Dice-App/assets/66315270/8f5c33c2-5a32-4bf8-a0fe-a3437f374ba2" width="400">
 
 ## Overview
 
