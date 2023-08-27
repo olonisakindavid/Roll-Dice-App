@@ -4,7 +4,7 @@
 
 Click the image below to watch the demonstration:
 
-<img src="https://github.com/olonisakindavid/Roll-Dice-App/assets/66315270/8f5c33c2-5a32-4bf8-a0fe-a3437f374ba2" width="400">
+<img src="https://github.com/olonisakindavid/Roll-Dice-App/assets/66315270/8f5c33c2-5a32-4bf8-a0fe-a3437f374ba2" width="400" height="200">
 
 ## Overview
 
