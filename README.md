@@ -4,7 +4,7 @@
 
 Click the video below to watch the demonstration:
 
-![Roll Dice App Video](https://github.com/olonisakindavid/Roll-Dice-App/assets/66315270/61f479a4-79d2-432f-b68c-1e94274c536a)
+![Roll Dice App Video](https://github.com/olonisakindavid/Roll-Dice-App/assets/66315270/8f5c33c2-5a32-4bf8-a0fe-a3437f374ba2)
 
 ## Overview
 
